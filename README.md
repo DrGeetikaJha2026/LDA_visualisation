@@ -1,0 +1,1 @@
+This is an interactive visualisation of the researches done on Circular economy practices in steelmaking over three decades. it helps the researcher to unearth the how the research inthis area has evolved over three decades, what are the trending terms and give related inferences and suggestion.
